@@ -1,0 +1,40 @@
+============================================================
+CRIMESHIELD CASE REPORT
+============================================================
+
+CASE INFORMATION
+------------------------------------------------------------
+Case ID:          1
+Case Code:        TEST-20261026144815-001
+Title:            Updated API Test Case
+Description:      Fictional test case for API testing
+Location:         40.7128,-74.0060
+Status:           under_review
+Created At:       2026-10-26T09:18:15
+
+EVIDENCE ITEMS
+------------------------------------------------------------
+
+1. Evidence Code: EVD-20261026144816-001
+   Type:           physical
+   Description:    Updated evidence description
+   Status:         processed
+   Location Ref:   40.7589,-73.9851
+   Person Ref:     John Doe
+   Phone Ref:      +1-555-0123
+
+POTENTIAL CONNECTIONS
+------------------------------------------------------------
+
+1. Connection ID: 1
+   Connected to:    Case 2
+   Type:            person_match
+   Shared Value:    john doe
+   Explanation:     Both cases have evidence referencing person: 'john doe'
+   Review Status:   confirmed_for_review
+   Review Notes:    Verified by API test
+
+============================================================
+Report generated: 2026-10-26T17:44:45.984473
+IMPORTANT: Connections are investigative leads, not proof.
+============================================================

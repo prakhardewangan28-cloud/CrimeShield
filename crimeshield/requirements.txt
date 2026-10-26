@@ -1,0 +1,14 @@
+# CRIMESHIELD Requirements
+# Python 3.12+ required
+
+# Web Framework
+Flask==3.0.0
+Werkzeug==3.0.1
+
+# Testing
+pytest==7.4.3
+pytest-cov==4.1.0
+
+# Code Quality (optional)
+flake8==6.1.0
+black==23.12.1

@@ -1,0 +1,38 @@
+============================================================
+CRIMESHIELD CASE REPORT
+============================================================
+
+CASE INFORMATION
+------------------------------------------------------------
+Case ID:          2
+Case Code:        TEST-20261026144816-002
+Title:            API Test Case 2
+Description:      Second test case
+Location:         40.7589,-73.9851
+Status:           open
+Created At:       2026-10-26T09:18:16
+
+EVIDENCE ITEMS
+------------------------------------------------------------
+
+1. Evidence Code: EVD-20261026144816-003
+   Type:           testimonial
+   Description:    Witness statement
+   Status:         pending
+   Person Ref:     John Doe
+
+POTENTIAL CONNECTIONS
+------------------------------------------------------------
+
+1. Connection ID: 1
+   Connected to:    Case 1
+   Type:            person_match
+   Shared Value:    john doe
+   Explanation:     Both cases have evidence referencing person: 'john doe'
+   Review Status:   confirmed_for_review
+   Review Notes:    Verified by API test
+
+============================================================
+Report generated: 2026-10-26T17:46:58.447994
+IMPORTANT: Connections are investigative leads, not proof.
+============================================================

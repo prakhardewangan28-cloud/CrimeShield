@@ -1,0 +1,16 @@
+CASE REPORT
+Case ID,1
+Case Code,TEST-20261026144815-001
+Title,Updated API Test Case
+Description,Fictional test case for API testing
+Location,"40.7128,-74.0060"
+Status,under_review
+Created At,2026-10-26T09:18:15
+
+EVIDENCE
+ID,Evidence Code,Type,Description,Status
+1,EVD-20261026144816-001,physical,Updated evidence description,processed
+
+CONNECTIONS
+ID,Connected Case,Type,Value,Review Status
+1,2,person_match,john doe,confirmed_for_review
